@@ -1,0 +1,20 @@
+/* Write your code here. */
+.bg-container {
+  background-color: #0f172a;
+  background-size: cover;
+  height: 100vh;
+  padding: 50px;
+  text-align: center;
+}
+
+.spl-heading {
+  color: #f8fafc;
+  font-family: "Roboto";
+  font-size: 50px;
+  text-align: center;
+}
+
+.image {
+  height: 200px;
+  width: 200px;
+}
